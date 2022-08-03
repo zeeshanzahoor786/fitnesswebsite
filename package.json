@@ -1,7 +1,7 @@
 {
   "name": "fightclubfitness.site",
   "version": "0.1.0",
-  "homepage": "http://fightclubfitness.site",
+  "homepage": "https://github.com/zeeshanzahoor786/fightclubwebsite",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^7.2.1",
     "emailjs": "^3.7.0",
     "emailjs-com": "^3.2.0",
+    "gh-pages": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
@@ -21,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

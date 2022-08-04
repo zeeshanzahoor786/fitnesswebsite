@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fitnesswebsite/static/css/main.c780bf6f.chunk.css",
+    "main.js": "/fitnesswebsite/static/js/main.d6de5fba.chunk.js",
+    "main.js.map": "/fitnesswebsite/static/js/main.d6de5fba.chunk.js.map",
+    "runtime-main.js": "/fitnesswebsite/static/js/runtime-main.e60102ac.js",
+    "runtime-main.js.map": "/fitnesswebsite/static/js/runtime-main.e60102ac.js.map",
+    "static/js/2.56793058.chunk.js": "/fitnesswebsite/static/js/2.56793058.chunk.js",
+    "static/js/2.56793058.chunk.js.map": "/fitnesswebsite/static/js/2.56793058.chunk.js.map",
+    "index.html": "/fitnesswebsite/index.html",
+    "precache-manifest.089f158b4d293e252514bd46fa72ee3e.js": "/fitnesswebsite/precache-manifest.089f158b4d293e252514bd46fa72ee3e.js",
+    "service-worker.js": "/fitnesswebsite/service-worker.js",
+    "static/css/main.c780bf6f.chunk.css.map": "/fitnesswebsite/static/css/main.c780bf6f.chunk.css.map",
+    "static/js/2.56793058.chunk.js.LICENSE.txt": "/fitnesswebsite/static/js/2.56793058.chunk.js.LICENSE.txt",
+    "static/media/bgVideo.mp4": "/fitnesswebsite/static/media/bgVideo.b6f21244.mp4",
+    "static/media/classFour.jpg": "/fitnesswebsite/static/media/classFour.558a8275.jpg",
+    "static/media/classOne.jpg": "/fitnesswebsite/static/media/classOne.17401abc.jpg",
+    "static/media/classThree.jpg": "/fitnesswebsite/static/media/classThree.c5162d4d.jpg",
+    "static/media/classTwo.jpg": "/fitnesswebsite/static/media/classTwo.92e684d5.jpg",
+    "static/media/gymOverlayBg.jpg": "/fitnesswebsite/static/media/gymOverlayBg.f042c2ac.jpg",
+    "static/media/scheduleBg.jpg": "/fitnesswebsite/static/media/scheduleBg.7afa204f.jpg",
+    "static/media/trainerOne.jpg": "/fitnesswebsite/static/media/trainerOne.9af65604.jpg",
+    "static/media/trainerThree.jpg": "/fitnesswebsite/static/media/trainerThree.7bfc49e8.jpg",
+    "static/media/trainerTwo.jpg": "/fitnesswebsite/static/media/trainerTwo.c7a6feb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60102ac.js",
+    "static/js/2.56793058.chunk.js",
+    "static/css/main.c780bf6f.chunk.css",
+    "static/js/main.d6de5fba.chunk.js"
+  ]
+}

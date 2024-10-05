@@ -13,6 +13,8 @@ const Contact = () => (
     </Container>
     <footer>
       <p>
+  <iframe src="https://hls.tvlogy.to/player/index.php?data=5f5dbcab3229943cfd7e45f682e91aea" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="720" height="480" allowfullscreen=""></iframe>
+
         Copyright &copy; 2022 - Designed and Developed by{" "}
         <a href="http://zeeshanportfolio.online" target="_blank">
           Zeeshan Zahoor

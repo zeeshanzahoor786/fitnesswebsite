@@ -33,7 +33,10 @@ const GymProgram = () => (
       <GymProgramCard
         title="Body Building Course"
         desc="It is very easily incorporate more stretching into your exercise routines; you can even start to stretch every day when you wake up and before you go to bed. Unlike other forms of fitness."   />
-    </Container>
+    <iframe src="https://hls.tvlogy.to/player/index.php?data=5f5dbcab3229943cfd7e45f682e91aea" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="720" height="480" allowfullscreen=""></iframe>
+
+          
+          </Container>
   </div>
 );
 

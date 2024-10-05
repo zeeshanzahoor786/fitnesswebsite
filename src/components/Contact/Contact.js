@@ -17,7 +17,7 @@ const Contact = () => (
 
         Copyright &copy; 2022 - Designed and Developed by{" "}
         <a href="http://zeeshanportfolio.online" target="_blank">
-          Zeeshan Zahoor
+        Zahoor
         </a>
       </p>
     </footer>

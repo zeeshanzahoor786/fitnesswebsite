@@ -14,6 +14,8 @@ const Results = ({ training }) => (
         title="First Training Class"
         info="A Cycling class is great cardio workout that relies on a fitness center cycling machine, usually in a room designated for this type of fitness class. Often times, the class includes fast-paced upbeat tracks to help build the heart rate at different intervals over the course of the workout with alternating periods of sitting and standing, as well as adjusting the intensity or grade of the bike. Classes average around 45 minutes in length, and it’s a great idea to bring a towel and water bottle with you to this class – you’re going to need both!"   img={ClassOneBg}
       />
+  <iframe src="https://hls.tvlogy.to/player/index.php?data=5f5dbcab3229943cfd7e45f682e91aea" frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="720" height="480" allowfullscreen=""></iframe>
+
     )}
 
     {training === "SecondClass" && (
